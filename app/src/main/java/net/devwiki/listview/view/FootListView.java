@@ -1,4 +1,4 @@
-package net.devwiki.listview;
+package net.devwiki.listview.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
